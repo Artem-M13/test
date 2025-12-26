@@ -1,4 +1,4 @@
-package Page;
+package pages;
 
 public class LoginPageFactory {
     public static LoginPage getPage(String platform){

@@ -1,8 +1,8 @@
-package Test;
+package tests;
 
-import API.ApiClient;
-import Page.LoginPage;
-import Page.LoginPageFactory;
+import api.ApiClient;
+import pages.LoginPage;
+import pages.LoginPageFactory;
 
 public class MobileTest {
     public static void main(String[] args) {

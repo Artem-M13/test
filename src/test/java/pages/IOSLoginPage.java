@@ -1,4 +1,4 @@
-package Page;
+package pages;
 
 //Реалізація для iOS
 public class IOSLoginPage implements LoginPage {

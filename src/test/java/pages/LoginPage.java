@@ -1,4 +1,4 @@
-package Page;
+package pages;
 
 // Спільний інтерфейс для сторінки логіну
 public interface LoginPage {

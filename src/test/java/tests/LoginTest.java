@@ -1,7 +1,7 @@
-package Test;
+package tests;
 
-import Page.LoginPage;
-import Page.LoginPageFactory;
+import pages.LoginPage;
+import pages.LoginPageFactory;
 
 public class LoginTest {
 

@@ -1,4 +1,4 @@
-package Page;
+package pages;
 
 // Реалізація для Android
 public class AndroidLoginPage implements LoginPage {
