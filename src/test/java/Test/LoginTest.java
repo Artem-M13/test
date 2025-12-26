@@ -1,3 +1,8 @@
+package Test;
+
+import Page.LoginPage;
+import Page.LoginPageFactory;
+
 public class LoginTest {
 
     //Імітація виклику API

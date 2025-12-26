@@ -1,3 +1,9 @@
+package Test;
+
+import API.ApiClient;
+import Page.LoginPage;
+import Page.LoginPageFactory;
+
 public class MobileTest {
     public static void main(String[] args) {
         String platform = "Android"; // Можна змінити на іОS

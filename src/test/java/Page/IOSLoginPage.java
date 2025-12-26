@@ -1,3 +1,5 @@
+package Page;
+
 //Реалізація для iOS
 public class IOSLoginPage implements LoginPage {
     private final String loginButton = "accessibilityId:login_button";

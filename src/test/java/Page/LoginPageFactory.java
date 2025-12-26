@@ -1,3 +1,5 @@
+package Page;
+
 public class LoginPageFactory {
     public static LoginPage getPage(String platform){
         if (platform.equalsIgnoreCase("android")) {
